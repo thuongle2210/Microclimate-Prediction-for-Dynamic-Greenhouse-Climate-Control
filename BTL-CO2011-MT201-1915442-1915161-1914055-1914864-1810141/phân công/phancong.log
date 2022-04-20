@@ -1,0 +1,79 @@
+Tuần 1:
+Cả nhóm: Đọc đề, tìm hiểu đề, chuẩn bị câu hỏi và các ý tưởng làm bài.
+Tuần 2:
+Thường: 
+	-Làm bài toán 1, phần giải hệ phương trình bằng Euler và runge-Kutta 4
+	-Tìm tham số và viết báo cáo sơ bộ cho bài toán tìm tốc độ phản ứng (phần này sau Thầy nói bỏ nhưng vẫn trình bày vào báo cáo)
+Quốc,Luân:
+        -Tổng hợp công thức, trình bày chi tiết mô hình CO2.(Phần 2-3 trong đề bài)
+	-Tìm tham số cho bài toán về CO2.
+Thành:	
+	-Nghiên cứu hệ động lực và phương pháp giải ODEs.
+	-Nghiên cứu và tìm tham số cho phần đầu (trừ phần quang hợp) cho hệ động lực CO2 của bài.
+Hiếu:
+	-Tìm hiểu Hệ động lực, phương trình và hệ phương trình vi phân
+Hoàn thành: 20%
+Tuần 3:
+Thường:
+	-Phản biện tham số cho bài toán về CO2
+	-Code Phương trình, lấy dữ liệu,.... và giải bài toán về CO2 cho cả 2 phương pháp Euler và RK4
+Quốc:
+	-Chỉnh sửa, comment Code cho bài toán tìm dx-CO2
+Thành:
+	-Nghiên cứu bài toán 5 về áp suất hơi nước trong nhà kính.
+	-Viết chương trình cho hệ động lực biểu diễn áp suất hơi nước (VP)
+Luân:
+	-Nghiên cứu về tốc độ quang hợp của tán lá và nồng độ CO2.
+Hoàn thành 40%
+Tuần 4:
+Thường:
+	-Phản biện tham số cho bài toán về VP 
+	-Chỉnh sửa phần phương trình của Thành, code giải bài toán về VP cho cả 2 phương pháp Euler và RK4 
+Quốc:
+	-Phản biện tham số cho bài toán VP
+	-Chỉnh sửa, comment Code cho bài toán tìm dx-VP
+Thành:	
+	-Tìm tham số cho hệ động lực biểu diễn áp suất hơi nước trong nhà kính.
+Luân:
+	-Tìm các hằng số ,điều chỉnh tham số trong các công thức,cách đổi đơn vị.
+Hoàn thành 60%
+Tuần 5:
+Thường: 
+	-Chỉnh sửa tham số cho phù hợp với độ chỉnh xác cho cả 2 bài toán CO2,VP
+Quốc:
+	-Chỉnh sửa tham số cho phù hợp với độ chính xác của cả hai bài toán CO2,VP
+	-Chỉnh sửa, comment giải thích Code (phần phương trình)
+	-Chuẩn bị tư liệu hình ảnh thêm vào báo cáo.
+Thành:	
+	
+	-Viết báo cáo các bài 2, 3, 4, 5 trong đề
+Luân:
+	-Nghiên cứu hệ động lực và hệ phương trình vi phân.
+Hiếu:
+	-Viết báo cáo phần 1
+Hoàn thành: 80%
+Tuần 6:
+Thường:
+	-Trình bày báo cáo giải thích tham số, nhận xét bài 3.
+	-Tìm hiểu kỹ thuật deep learning, mô hình mạng nơron ANN và PINN
+Thành:
+	- Nghiên cứu về deep learning.
+Luân:
+	-Viết báo cáo 2.2,2.3,3.3,3.4,5.2,5.3,5.4.
+Hiếu:
+	-Viết báo cáo bài 2
+	-Sửa lỗi báo cáo
+Hoàn thành 90%
+Tuần 7:
+Thường:
+	-Dò lại báo cáo bài toán về VP, trình bày báo cáo phần deep-learning và code.
+Quốc:
+	-Dò báo cáo phần phương trình vi phân, hệ động lực và phương trình vi phân
+Luân: 
+	-Dò lại báo cáo, phản biện deep-learning
+Thành:
+	-Viết báo cáo các bài 2, 3, 4, 5 trong đề (tiếp tục), phản biện deep-learning
+
+tuần 8:
+	-Tổng ôn báo cáo, phản biện, kiểm tra chính tả, công thức.
+
